@@ -9,3 +9,5 @@
 * And viola... you get your location
 
 <p> NB The program is purely code and will require knowledge in python to run.<p>
+
+IP funtionality 

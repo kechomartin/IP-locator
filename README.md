@@ -1,13 +1,36 @@
-# IP-locator:
+# IP Locator
 
-<img src="https://img.icons8.com/fluency/256/order-delivered.png" style="width:45px; heigth:45px;">
+This tool helps you find the physical location of an IP address.
 
-# FUNCTIONALITY: 
-* Type in the ip you'd like to locate
-* Get the longitude and latitude
-* Re-enter them
-* And viola... you get your location
+## How to Use:
+1. **Enter the IP Address:** Type in the IP address you'd like to locate.
+2. **Retrieve Coordinates:** Get the longitude and latitude of the IP address.
+3. **Enter Coordinates:** Re-enter the obtained longitude and latitude.
+4. **Discover Location:** Voila! You get your location.
 
-<p> NB The program is purely code and will require knowledge in python to run.<p>
+## Features:
+- Quickly find the geographical location of any IP address.
+- Accurate longitude and latitude information.
+- Simple and user-friendly interface.
 
-IP funtionality 
+## Technologies Used:
+- Python
+- Flask
+- IP Geolocation APIs
+
+## Installation:
+1. Clone this repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the Flask app using `python app.py`.
+
+## Credits:
+This project utilizes the following services:
+- [IP Geolocation API](https://www.ipgeolocation.io/)
+
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributors:
+- kecho martin (https://github.com/yourusername)
+
+Feel free to contribute by submitting bug reports, feature requests, or pull requests.

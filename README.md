@@ -1,4 +1,4 @@
-# IP Locator
+# IP Locator :
 
 This tool helps you find the physical location of an IP address.
 
